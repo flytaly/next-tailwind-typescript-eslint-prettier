@@ -1,4 +1,4 @@
-Next.js + Tailwind + TypeScript + ESLint + Prettier boilerplate/starter
+# Next.js + Tailwind + TypeScript + ESLint + Prettier boilerplate/starter
 
 ## Getting Started
 
